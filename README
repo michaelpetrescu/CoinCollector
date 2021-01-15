@@ -1,8 +1,11 @@
 I have created a game that I have based off of Taappy Tap App from computing lessons.
 It is a 3D game where you control a ball and you try to pick up yellow coins.This represents tapping on a blue circle in the app.
-You need to avoid bumping into red coins. This represents tapping a rede circle.
+You need to avoid bumping into red coins. This represents tapping a red circles.
 There are also some obstacles although they don't really have much of a purpose other than to be in the wayy of the player.
 You move forward and backward with W and S and turn with A and D.
 I changed the timer to 20 seconds since 15 felt way too short.
 I created this game in Unity using C#. I built the game using the WebGL platform so it could be played in a browser.
-I will try to host the game on a server since some browsers, like chrome, don't allow large games to be played locally.
+
+I have hosted the game on a secure server with an SSL certificate, malware, and DDoS protection.
+The game is located at https://cardshoponline.co.uk/Coin%20Collector/index.html
+*The domain I used seens unrelaeted because it is one that I already had.
